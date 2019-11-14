@@ -1,6 +1,6 @@
 # setup
 
-* registrarsi a 
+* registrarsi a https://unsplash.com/developers
 * creare una applicazione
 * recuperare l'access key
 
